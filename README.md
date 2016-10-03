@@ -5,7 +5,7 @@ Experimental notepad android app written in java.
 - Save
 - Load
 - Color Picker
-- print
+- printer
 - And more
 
 (c) 2016 ZetaPhase Tech, All Rights Reserved.
